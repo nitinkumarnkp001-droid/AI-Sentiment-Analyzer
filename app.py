@@ -3,6 +3,7 @@ from groq import Groq
 import os
 from dotenv import load_dotenv
 from database import collection
+from groq import Groq
 
 # Load environment variables
 load_dotenv()
